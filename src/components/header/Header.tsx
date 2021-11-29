@@ -8,16 +8,16 @@ function Header() {
         <Anchor href="#services">Services</Anchor>
         <Anchor href="#portfolio">Portfolio</Anchor>
         <Anchor href="#about-me">About Me</Anchor>
-        <Anchor href="#contact-me">Contact Me</Anchor>
+        {/* <Anchor href="#contact-me">Contact Me</Anchor> */}
       </Nav>
 
-      <Container>
+      {/* <Container>
         <ButtonFixed
           href="../../assets/pdf/curriculum-miguel-us.pdf"
           download="miguelvelasquez-resume.pdf">
           Download CV <DownloadIcon></DownloadIcon>
         </ButtonFixed>
-      </Container>
+      </Container> */}
     </div>
   );
 }

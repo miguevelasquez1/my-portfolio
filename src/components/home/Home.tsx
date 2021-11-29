@@ -50,12 +50,12 @@ const Home: React.FC = () => {
             onClick={() => setSection('about-me')}>
             <Span>About Me</Span>
           </Anchor>
-          <Anchor
+          {/* <Anchor
             href="#hire-me"
             dotnav={section === 'hire-me' ? dotnavActive : dotnav}
             onClick={() => setSection('hire-me')}>
             <Span>Contact Me</Span>
-          </Anchor>
+          </Anchor> */}
         </DotnavContainer>
 
         <Img className="img-presentation" src={presentation} alt="presentation" />
