@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.beee2431.chunk.css",
-    "main.js": "/portfolio/static/js/main.435b694e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.435b694e.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.73ee1d0e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.73ee1d0e.js.map",
-    "static/js/2.c9885cfa.chunk.js": "/portfolio/static/js/2.c9885cfa.chunk.js",
-    "static/js/2.c9885cfa.chunk.js.map": "/portfolio/static/js/2.c9885cfa.chunk.js.map",
-    "static/js/3.cec235a8.chunk.js": "/portfolio/static/js/3.cec235a8.chunk.js",
-    "static/js/3.cec235a8.chunk.js.map": "/portfolio/static/js/3.cec235a8.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.beee2431.chunk.css.map": "/portfolio/static/css/main.beee2431.chunk.css.map",
-    "static/js/2.c9885cfa.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c9885cfa.chunk.js.LICENSE.txt",
-    "static/media/Poppins-Regular.ccfdd78d.ttf": "/portfolio/static/media/Poppins-Regular.ccfdd78d.ttf",
-    "static/media/Presentation.1e7b10c0.svg": "/portfolio/static/media/Presentation.1e7b10c0.svg",
-    "static/media/iPhone 12 Pro Max.856cb7e8.svg": "/portfolio/static/media/iPhone 12 Pro Max.856cb7e8.svg"
+    "main.css": "/my-portfolio/static/css/main.beee2431.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.435b694e.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.435b694e.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.7f37711a.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.7f37711a.js.map",
+    "static/js/2.a269e1be.chunk.js": "/my-portfolio/static/js/2.a269e1be.chunk.js",
+    "static/js/2.a269e1be.chunk.js.map": "/my-portfolio/static/js/2.a269e1be.chunk.js.map",
+    "static/js/3.cec235a8.chunk.js": "/my-portfolio/static/js/3.cec235a8.chunk.js",
+    "static/js/3.cec235a8.chunk.js.map": "/my-portfolio/static/js/3.cec235a8.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/css/main.beee2431.chunk.css.map": "/my-portfolio/static/css/main.beee2431.chunk.css.map",
+    "static/js/2.a269e1be.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.a269e1be.chunk.js.LICENSE.txt",
+    "static/media/Poppins-Regular.ccfdd78d.ttf": "/my-portfolio/static/media/Poppins-Regular.ccfdd78d.ttf",
+    "static/media/Presentation.1e7b10c0.svg": "/my-portfolio/static/media/Presentation.1e7b10c0.svg",
+    "static/media/iPhone 12 Pro Max.856cb7e8.svg": "/my-portfolio/static/media/iPhone 12 Pro Max.856cb7e8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.73ee1d0e.js",
-    "static/js/2.c9885cfa.chunk.js",
+    "static/js/runtime-main.7f37711a.js",
+    "static/js/2.a269e1be.chunk.js",
     "static/css/main.beee2431.chunk.css",
     "static/js/main.435b694e.chunk.js"
   ]
