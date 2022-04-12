@@ -46,8 +46,7 @@ export const AboutMe = () => {
         <Paragraph leftAlign={false}>Hi. My name is Miguel Velasquez.</Paragraph>
       </Header>
       <Paragraph leftAlign={true}>
-        I am an autodidact lover, full believer that any project can be real, the imagination don’t
-        have limits.
+        I am an autodidact lover, full believer that any project can be real, the imagination hasn't limits.
       </Paragraph>
       <SoftSkillsTitle>SOFT SKILLS</SoftSkillsTitle>
       <Skills>
